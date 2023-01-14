@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "orbital-nova-352416",
+  "private_key_id": "b82652f8f685fab0a14ae7f6827de4365f48d616",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCWXesbm27TKiiZ\nVKpvvb941BbWkJqRJsVjtahcAnMgQossoTwec0U9ssnettegP8PxXxBb2BAHBrZj\nbCPfmyZ27RwPKSvrqAiDRYeOXPv9TyjrNPMlp7Ox8pry76FcYuCQAXjvBRlHZ13X\n+rSTvuFkKYI+0XTGfYc4GRIvgtJKlwImumL/aOc9JZE1PAGRkSKj1GdSbetflxzU\nr//SV/1GwICVhRfK6a1p1gC276eaqjioSA23j5ccJLYIjmK/r4j9swmSQMQdb2Gj\nthPephrrLFrJHxbBOIZLPU6WrF4dz4a95l2/7sKjq4DbgXN81gmt+A+xe3jxdAcG\niE382W1PAgMBAAECggEAK5N3LY57bQ3EKz9ajzx1jz4jijXo3VTXkmBUNKnvFDPE\non/tbMOqFsnH79ecIJAqKDqNApjYeDjNRX3S3ZvYZ1GqtogPduFA6k4NjUfMLSoy\nKQu0xT5W+KRenDWu1RfAjWsn0VjwbP17ODqq90AzkHPpD2xjA5zgQXUejI9EgyHT\nRyIxZVmTW1inDU0JI8lm8Y7doN31w7SwBT+Ha9xC7unlX8Z9tOm743D5giiwKQsj\n/3NPFmwiVgswCeORr7LakoH61sGStHmcnyRpzYyx4J2h3lzTmrjLC/8Bgnrf9iTX\nOKuuq3zTuKi/hR4k1l1uQerFo6dfcjd1urcD/krWrQKBgQDMu+fdqMp4P4QoxkSN\nbgAuA7XLMZOHtmMNT75y3TxhV/EkkZLGSFggELLtLMAMQh/1sfhAtmdQDquB34bw\n7DvvIgfuTAV4v98LbhkrfaoMjE8/VTjsEKaQ1LoIgjq/m5I7lsC+U5iHzdvysKXr\n9YCNX6ManqQyIsE/bourr84rGwKBgQC8BOhxrbvsPtXGdrBcBUj7N5zYUNEiWloR\ngGg+lBqNxVLsk0+iQCUTZrnHbcUCsyKZyTM5jD6DsTkK5mah4btmZ2Jh9H8Bty5z\nb2rLJLTeJS4ffWECE6tPKWz3Rml8QiLNafNA/KuJHxb8Iz8WAGmG9pOPTuBR1QBF\nbLIbE08V3QKBgQCgrhz052M4askjYzAsO5fihUDpX1hlG6yzptFWvvGDiIyWYbXq\n7p5TVCfJYuS6+i6xGuM2jrGYsFrEjBURAqarMG8/A+ULdrLr+pXAf1i1jm0nzI/n\nHc5MPtheky7ecI+dOty8w0kj1Fn6J8+g18XzroqI+tbtDj/Ss8Tkkw7g3wKBgCFh\n7bNhWWBUt7gJEr8D4TVZZmuxza//wsYgumGCAkTxqAuBDD6OjQao0otqHfSgwZ/0\nbTfmgqL3MF2TEt3jKlbAPGOP+YzgbUrpmViAJ+zZRRsqM7MesufXPxWYVtpNE8jM\n6ve65OnvrzENQQIzCImB9ikXpBRjcSziY60S/JOxAoGAEJXGVBAD328QJCiuqzND\nuz/B20OKeUSGD/ruLSziv79ooG5frfziQYwesGNVlKGcGLltiIFKXUPKT+GKl4QF\ncvx2fPgF5M9W/nW1j4E5MWGG5FY5XxNwK9fwwGUlafFh2XGqzMsqWuv0G4Cqch0Y\n7IVXRWLPVctd7dzM9AEodkE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-x9dibabitjw6vgheks6way7rza@orbital-nova-352416.iam.gserviceaccount.com",
+  "client_id": "117962921321671048474",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-x9dibabitjw6vgheks6way7rza%40orbital-nova-352416.iam.gserviceaccount.com"
+}
